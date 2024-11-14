@@ -16,6 +16,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @connect      api.hypothes.is
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function () {

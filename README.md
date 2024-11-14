@@ -2,9 +2,9 @@
 
 ## Description
 
-This Tampermonkey UserScript enhances your web browsing experience by letting you search through your Hypothes.is annotations across multiple search engines. With this script, you can quickly find and access your annotations while searching on popular platforms like Google, Bing, DuckDuckGo, and more.
+This Violentmonkey UserScript enhances your web browsing experience by letting you search through your Hypothes.is annotations across multiple search engines. With this script, you can quickly find and access your annotations while searching on popular platforms like Google, Bing, DuckDuckGo, and more.
 
-![Hypothes.is Search Screenshot](https://github.com/mjysci/hypothesis-search/blob/main/hypothesisSearch_screenshot.png?raw=true)
+![Hypothes.is Search Screenshot](https://cdn.jsdelivr.net/gh/mjysci/imgs@master/blog/hypothesisSearch_screenshot.png)
 
 ## Features
 
@@ -17,9 +17,9 @@ This Tampermonkey UserScript enhances your web browsing experience by letting yo
 
 ## Installation
 
-1. **Install Tampermonkey**: Make sure the Tampermonkey extension is installed in your browser. You can download it from [Tampermonkey.net](https://www.tampermonkey.net/).
+1. **Install Violentmonkey**: Make sure the Violentmonkey extension is installed in your browser. You can download it from [here](https://violentmonkey.github.io/).
 
-2. **Install Script**: Click [here](https://github.com/mjysci/hypothesis-search/raw/refs/heads/main/hypothesisSearch.user.js) to open Tampermonkey's Userscript installation page, then click `Install`.
+2. **Install Script**: Click [here](https://github.com/mjysci/hypothesis-search/raw/refs/heads/main/hypothesisSearch.user.js) to open Violentmonkey's Userscript installation page, then click `Install`.
 
 3. **Generate Hypothes.is API Token**: Visit [here](https://hypothes.is/account/developer) to generate an API token.
 

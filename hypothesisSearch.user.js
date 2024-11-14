@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hypothes.is Search
-// @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @namespace    https://mjyai.com
+// @version      1.0.1
 // @description  Search user's Hypothes.is annotations across multiple search engines
 // @author       MA Junyi
 // @match        https://www.google.com/search*

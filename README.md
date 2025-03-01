@@ -1,5 +1,7 @@
 # Hypothes.is Search Engine Integration
 
+**This Project has been merged into [MetaSearch](https://github.com/mjysci/MetaSearch).**
+
 ## Description
 
 This Violentmonkey UserScript enhances your web browsing experience by letting you search through your Hypothes.is annotations across multiple search engines. With this script, you can quickly find and access your annotations while searching on popular platforms like Google, Bing, DuckDuckGo, and more.
@@ -55,10 +57,6 @@ We welcome suggestions or bug reports! To submit a pull request:
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](https://github.com/mjysci/hypothesis-search/blob/main/LICENSE) file for more information.
-
-## Author
-
-Created by MA Junyi.
 
 ---
 
